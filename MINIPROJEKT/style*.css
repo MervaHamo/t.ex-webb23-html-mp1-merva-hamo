@@ -1,0 +1,28 @@
+.flex-container {
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: peachpuff;
+   
+}
+
+.flex-container > div {
+    background-color: lightcoral;
+    margin: 15px;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 50%;
+
+}
+
+img{
+    border-radius: 50%;
+    background-color: lightcoral;
+    padding: 10px;
+    
+}
+
+h2{
+    font-style: oblique;
+    color: cadetblue;
+}
